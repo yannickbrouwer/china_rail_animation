@@ -4,5 +4,4 @@ Data visualization of high speed trains in China. Very similar to my Ancestor Mi
 For reference please check:
 
 https://github.com/yannickbrouwer/ancestors-migration-visualization 
-
 https://yannickbrouwer.medium.com/visualizing-my-ancestry-on-a-map-7af6a2354db0
